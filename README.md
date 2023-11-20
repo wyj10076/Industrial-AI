@@ -3,7 +3,7 @@
 
 ### [산업컴퓨터비전실제](https://github.com/wyj10076/Industrial-AI/tree/master/projects/%EC%82%B0%EC%97%85%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B9%84%EC%A0%84%EC%8B%A4%EC%A0%9C) (9)
 
-### [어프렌티스프로젝트](https://github.com/wyj10076/Industrial-AI/tree/master/projects/%EC%96%B4%ED%94%84%EB%9E%9C%ED%8B%B0%EC%8A%A4) (1)
+### [어프렌티스프로젝트](https://github.com/wyj10076/Industrial-AI/tree/master/projects/%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4) (1)
 
 ### [지능화캡스톤프로젝트](https://github.com/wyj10076/Industrial-AI/tree/master/projects/%EC%A7%80%EB%8A%A5%ED%99%94%EC%BA%A1%EC%8A%A4%ED%86%A4) (4)
 
